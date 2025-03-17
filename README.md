@@ -10,5 +10,13 @@ Like Posts – Click the heart icon below any post to like it and show your appr
 Simple User Interaction – Engage with the posts in a straightforward way, just as you would on Instagram, but with fewer distractions.
 💻 Tech Stack: HTML, CSS, JavaScript
 
+
+
+
+![image](https://github.com/user-attachments/assets/4bf2a1d3-c986-4547-b4eb-9fec425ce9e7)
+
+
+
+
 This is a  scrimba solo Project.
 The figma design : https://www.figma.com/design/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram?node-id=0-1&p=f&t=8CsJn4l62JlW8Oj6-0
