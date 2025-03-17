@@ -1,0 +1,126 @@
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: start;
+    font-family: "Source Sans 3", sans-serif;
+    
+}
+
+
+h2{
+    margin-bottom: 0;
+    font-size: 1.25rem;
+}
+
+h3{
+    margin-top: 2px;
+    font-size: 1.15rem;
+}
+
+p{
+    margin: 15px;
+
+}
+
+
+header{
+    padding: 10px 12px 10px;
+    border-bottom: 1px solid #C6C6C6;
+    background-color: #FFFFFF;
+    margin-bottom: 10px ;
+}
+
+ul{
+    display: flex;
+    align-items: start;
+    list-style-type: none;
+    gap: 15px;
+    padding-inline-start: 4px;
+}
+
+
+button{
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    border: none;
+}
+
+button:focus{
+    outline: none; 
+}
+
+/* same design*/
+.comment span,p{
+    font-size: 1rem;
+}
+
+
+h2,
+h3,
+.comment span{
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+h2,p{
+    font-weight: 700;
+}
+
+h3,.comment span{
+    font-weight: 400;
+}
+
+
+/* Classes */
+
+.heroSection{
+    width: 400px;
+    display: flex;
+    align-items: center; 
+    gap: 10px; 
+    padding: 10px;
+}
+
+.logo{
+    width: 200px;
+    align-items: start;
+}
+
+
+
+.profile-logo {
+    width: 50px; 
+    height: 50px;
+    border-radius: 50%; 
+    object-fit: cover; 
+
+}
+
+
+.post{
+    width: 100vw ;
+    margin: 10px 0;
+}
+
+
+
+
+
+
+.btn{
+    width: 25px;
+    border: none;
+    background-color: white;
+}
+
+
+/* Like feature */
+
+.liked {
+    background-color: red;
+    border-radius: 45%;
+}
+
+
